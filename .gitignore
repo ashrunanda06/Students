@@ -1,0 +1,6 @@
+node_modules
+kendo-ui-license.txt
+dist
+.angular
+.vscode
+.DS_Store
